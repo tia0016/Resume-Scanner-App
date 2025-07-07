@@ -34,7 +34,7 @@ Built using **Python**, **Streamlit**, and **PyMuPDF**, this app gives you a **m
 
 ---
 
-## 📁 Installation (Run Locally)
+## 📁 Installation
 
 ```bash
 git clone https://github.com/tia0016/Resume-Scanner-App.git
@@ -44,7 +44,7 @@ streamlit run app.py
 
 ---
 
-## Folder Structure
+Folder Structure
 
 Resume-Scanner-App/
 ├── app.py                # Streamlit app
